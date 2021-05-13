@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "1",
+    "Diem toan": 1.0,
+    "Diem ly": 1.0,
+    "Diem hoa": 1.0,
+    "Diem TB": 1.0,
+    "Phan loai": "Yeu"
+  },
+  {
+    "id": "2",
+    "name": "2",
+    "Diem toan": 2.0,
+    "Diem ly": 2.0,
+    "Diem hoa": 2.0,
+    "Diem TB": 2.0,
+    "Phan loai": "Yeu"
+  },
+  {
+    "id": "3",
+    "name": "3",
+    "Diem toan": 3.0,
+    "Diem ly": 3.0,
+    "Diem hoa": 3.0,
+    "Diem TB": 3.0,
+    "Phan loai": "Yeu"
+  },
+  {
+    "id": "4",
+    "name": "4",
+    "Diem toan": 4.0,
+    "Diem ly": 4.0,
+    "Diem hoa": 4.0,
+    "Diem TB": 4.0,
+    "Phan loai": "Yeu"
+  }
+]
